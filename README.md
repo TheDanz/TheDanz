@@ -4,5 +4,7 @@
   <div> - :man_student: I'm an Information Security student from Russia</div>
   <div> - :telescope: I'm currently studying iOS Development</div>
   <div> - :video_game: In my free time, I like playing video games</div>
-  <div> - :mailbox: How to reach me: nave.stone.0q@icloud.com</div>
+  <div> - :mailbox: How to reach me: ryumin.dev@yandex.ru</div>
 </p> 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/TheDanz)
